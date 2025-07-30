@@ -1,0 +1,11 @@
+claim_id,claimant_id,claim_amount,policy_amount,claim_type,incident_type,fraud_reported
+1,1001,5000,10000,Theft,Robbery,Y
+2,1002,2000,5000,Accident,Collision,N
+3,1003,15000,15000,Fire,House Fire,Y
+4,1001,3000,10000,Theft,Robbery,N
+5,1004,7000,7000,Accident,Collision,Y
+6,1005,1200,3000,Theft,Robbery,N
+7,1006,25000,25000,Fire,House Fire,Y
+8,1007,4000,8000,Accident,Collision,N
+9,1008,6000,6000,Theft,Robbery,Y
+10,1009,1000,2000,Accident,Collision,N
